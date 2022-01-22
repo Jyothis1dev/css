@@ -168,11 +168,11 @@ align-items: center;
 /* CSS for the hero section*/
 /* hero-bg for image upload on hero page of site*/
 .hero-bg{
-    background-image: url('../images/hero1.jpg');
     background-position: center;
     height: 600px;
     background-size: cover;
     position: relative; /* position of the text will be hold on the image box its self*/
+    width: 100%;
 }
 /* text on image */
 .hero-text{
